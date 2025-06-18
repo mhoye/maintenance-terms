@@ -35,3 +35,7 @@ Translations are welcome.
 ## TODO
 
 Badges, maybe? I'm open to suggestions.
+
+
+Created by: Mike Hoye - mhoye, 2025
+Original:   https://github.com/mhoye/maintenance-terms
