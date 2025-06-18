@@ -18,6 +18,6 @@ particularly with respect to:
 The author(s) hope you find it valuable on those terms.
 
 
-Created by: Mike Hoye - mhoye, 2025
+Terms created by Mike Hoye - mhoye, 2025
 
 Original: https://github.com/mhoye/maintenance-terms
