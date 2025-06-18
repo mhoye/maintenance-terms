@@ -4,8 +4,8 @@ This repository is an effort to create a short snippet of text to add to a
 README or other file making it explicit that the creators or maintainers of 
 software provided free and as-is will not accept any further burdens or 
 impositions with respect to responsiveness, maintenance or updates, particularly
-any attempts to impose obligations, schedules, or to define any other any 
-other terms of engagement.
+any attempts to impose obligations, schedules, or to define any other terms
+of engagement.
 
 See the MAINTENANCE-TERMS.md file for the text in a standalone file.
 
