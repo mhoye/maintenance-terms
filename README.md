@@ -1,5 +1,7 @@
 # Maintenance Terms 
 
+Access to code is no promise of access to people.
+
 This repository is an effort to create a short snippet of text to add to a 
 README or other file making it explicit that the creators or maintainers of 
 software provided free and as-is will not accept any further burdens or 
