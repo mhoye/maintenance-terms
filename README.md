@@ -2,33 +2,34 @@
 
 Access to code is no promise of access to people.
 
-This repository is an effort to create a short snippet of text to add to a 
-README or other file making it explicit that the creators or maintainers of 
-software provided free and as-is will not accept any further burdens or 
-impositions with respect to responsiveness, maintenance or updates, particularly
-any attempts to impose obligations, schedules, or to define any other terms
-of engagement.
+This repository is an effort help developers manage the relationships
+around their code, particularly with respect to community expectations
+about communication norms, participation and developer reponsiveness.
 
-See the MAINTENANCE-TERMS.md file for the text in a standalone file.
+The goal of each TERMS file is to establish maintainers' expectations and
+requirements in some category of code-adjacent relationship, both so that
+new members of a community can see what they can expect from and how to
+best engage with those maintainters, and to give maintainers their own
+social permission to decline contributions or other obligations that do
+not meet those terms.
 
-## Proposed Text
+## The list
 
-Current as of [YEAR] 
+# Contribution Terms
 
-The code, text and data in this repository are provided as-is under 
-the terms of the repository's LICENSE.md file, as a gift to the commons 
-and the common good. In providing this software as-is, its author(s) 
-admit no further obligations from anyone using the software for any reason,
-particularly with respect to:
+Because the cost of generating code is effectively zero now and the
+costs of support and maintenance remain stubbornly, unboundedly large,
+the Contribution Terms says, in short, "we need to have a conversation
+about the goals and shape major changes before those changes show up in
+a pull request or they will be summarily declined".
 
-- Response time,
-- Change review and integration,
-- Disclosure schedules,
-- Discretionary, proprietary or otherwise secretive communications, and 
-- Any other non-contractual obligations or conventions, regardless of
-  their presumed urgency or severity.
+# Maintenance Terms
 
-The author(s) hope you find it valuable on those terms.
+The Maintenance Terms effectively reiterates the licensing terms, and
+reiterates that "provided as is, with no warranty express or implied"
+means provided as is, with no warranty express or implied regardless
+of whom it was provided to or whatever warranties they believe they're
+owed should it fall over in some unexpected way.  
 
 ## Translations or extensions
 
@@ -36,8 +37,7 @@ Translations are welcome.
 
 ## TODO
 
-Badges, maybe? I'm open to suggestions.
-
+Translations and suggestion
 
 Created by: Mike Hoye - mhoye, 2025
 
