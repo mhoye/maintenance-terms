@@ -13,9 +13,9 @@ best engage with those maintainters, and to give maintainers their own
 social permission to decline contributions or other obligations that do
 not meet those terms.
 
-## The list
+# The list
 
-# Contribution Terms
+## Contribution Terms
 
 Because the cost of generating code is effectively zero now and the
 costs of support and maintenance remain stubbornly, unboundedly large,
@@ -23,7 +23,7 @@ the Contribution Terms says, in short, "we need to have a conversation
 about the goals and shape major changes before those changes show up in
 a pull request or they will be summarily declined".
 
-# Maintenance Terms
+## Maintenance Terms
 
 The Maintenance Terms effectively reiterates the licensing terms, and
 reiterates that "provided as is, with no warranty express or implied"
