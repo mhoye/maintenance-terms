@@ -2,7 +2,7 @@
 
 Access to code is no promise of access to people.
 
-This repository is an effort help developers manage the relationships
+This repository is an effort to help developers manage the relationships
 around their code, particularly with respect to community expectations
 about communication norms, participation and developer reponsiveness.
 
